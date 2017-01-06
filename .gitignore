@@ -29,11 +29,15 @@
 /polymer/eduke32/*.x64
 /polymer/eduke32/*.ppc
 /polymer/eduke32/*.app
+/polymer/eduke32/*.opendb
 /polymer/eduke32/rsrc/game_banner.c
 /polymer/eduke32/rsrc/editor_banner.c
-/polymer/eduke32/obj
+/polymer/eduke32/**/obj
+/polymer/eduke32/build
 xcuserdata
 project.xcworkspace
 .DS_Store
 /polymer/eduke32/*.cache
 /polymer/eduke32/*.cfg
+/polymer/eduke32/*.grp
+/polymer/eduke32/*.rts
